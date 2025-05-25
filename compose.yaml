@@ -1,5 +1,7 @@
+name: dev-container
 services:
   base:
+    container_name: dev-base
     build: 
       dockerfile: Dockerfile.base
     command: sleep infinity
