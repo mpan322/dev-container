@@ -40,6 +40,7 @@
     git = {
       enable = true;
       userName = "mpan322";
+      userEmail = "mp322@st-andrews.ac.uk";
       extraConfig = {
         init.defaultBranch = "main";
       };
