@@ -14,6 +14,7 @@
     cmake
     nodejs
     glibc
+    ripgrep
     coreutils
     findutils
     gnugrep
