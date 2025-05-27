@@ -23,6 +23,7 @@
     which
     file
     unzip
+    xz
     
     # network
     curl
